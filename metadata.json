@@ -1,0 +1,5 @@
+{
+  "name": "Digital Attendance System",
+  "description": "A web application to manage and digitalize class attendance.",
+  "requestFramePermissions": []
+}
